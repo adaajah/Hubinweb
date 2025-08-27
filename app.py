@@ -5,7 +5,7 @@ app.secret_key = "rahasia-besar"
 
 # Data password tiap hero
 hero_passwords = {
-    "Nara": "nara123",
+    "Nara": "nar4123",
     "Qilan": "qilan123",
     "Iza": "iza123",
     "Hada": "hadanaja",
