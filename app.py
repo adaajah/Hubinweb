@@ -17,6 +17,7 @@ hero_passwords = {
     "Devara": "devara123",
     "Jiyad": "jiyad123"
 }
+PASSWORD = "hubinku123"
 
 # Data detail hero
 hero_data = {
