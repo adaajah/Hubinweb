@@ -5,18 +5,19 @@ app.secret_key = "rahasia-besar"
 
 # Data password tiap hero
 hero_passwords = {
-    "Nara": "nar4123",
-    "Qilan": "qilan123",
-    "Iza": "iza123",
+    "Nara": "n4r*123",
+    "Qilan": "q1lan*123",
+    "Iza": "iz44123",
     "Hada": "hadanaja",
-    "Muti": "muti123",
-    "Nur": "nur123",
-    "Mufid": "mufid123",
-    "Bagus": "bagus123",
-    "Dimas": "dimas123",
-    "Devara": "devara123",
-    "Jiyad": "jiyad123"
+    "Muti": "mut1*123",
+    "Nur": "nur*123",
+    "Mufid": "muf1d*123",
+    "Bagus": "bagu5*123",
+    "Dimas": "d1m4s123",
+    "Devara": "d3vara*123",
+    "Jiyad": "jiy4d*123"
 }
+
 PASSWORD = "hubinku123"
 
 # Data detail hero
